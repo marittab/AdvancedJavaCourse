@@ -20,6 +20,7 @@
 import java.util.Arrays;
 import java.util.List;
 
+/*
 public class Market {
 
     List<Customer> customers = Arrays.asList(
@@ -37,3 +38,4 @@ public class Market {
 }
 
         }
+        */
